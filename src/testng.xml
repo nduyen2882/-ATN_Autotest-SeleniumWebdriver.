@@ -1,0 +1,14 @@
+<!--Ngô Thị Duyên 60TH4 1851061344-->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite" verbose="1">
+    <test name="ArgumentTest">
+        <classes>
+            <class name="ClassTest.ListArgumentTest" />
+            <class name="ClassTest.ViewArgumentTest" />
+            <class name="ClassTest.CreateArgumentTest" />
+            <class name="ClassTest.EditArgumentTest" />
+            <class name="ClassTest.DeleteArgumentTest" />
+        </classes>
+    </test>
+</suite>

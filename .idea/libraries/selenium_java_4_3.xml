@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="selenium-java-4.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../SeleniumLibrary/selenium-java-4.3.0" />
+      <root url="jar://$PROJECT_DIR$/../../apache-log4j-2.18.0-bin/log4j-1.2-api-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../apache-log4j-2.18.0-bin/log4j-core-2.18.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../SeleniumLibrary/selenium-java-4.3.0" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../SeleniumLibrary/selenium-java-4.3.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../SeleniumLibrary/selenium-java-4.3.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
